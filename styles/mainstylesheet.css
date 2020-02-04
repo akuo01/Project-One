@@ -10,8 +10,8 @@ body {
     width: 60px;
     position: fixed;
     z-index: 1;
-    top: 275px;
-    left: 25px;
+    top: 75%;
+    left: 5%;
     background: #eee;
     overflow-x: hidden;
     padding: 8px 0;
@@ -68,8 +68,8 @@ p {
     font-family: 'Montserrat', sans-serif;
     color: white;
     font-size: 15px;    
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 15%;
+    margin-right: 15%;
     letter-spacing: 1px;
     line-height: 24px;
     margin-bottom: 25px;
